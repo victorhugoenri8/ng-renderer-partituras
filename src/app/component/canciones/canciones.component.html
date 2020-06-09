@@ -1,0 +1,7 @@
+<div *ngFor="let i of datos; index as s">
+
+  <div class="list-group">
+
+                <button type="button" #artista id={{s}} (click)="cambiar(artista.value, artista.id)" value={{value}} class="list-group-item list-group-item-action"><h4>{{i.nombre}}</h4></button>
+               </div>
+</div>
