@@ -47,7 +47,7 @@
     "@nguniversal/common": "^6.0.0",
     "@nguniversal/express-engine": "^6.0.0",
     "@nguniversal/module-map-ngfactory-loader": "^6.0.0",
-    "ajv": "^6.9.1",
+    "ajv": "^6.12.3",
     "bootstrap": "^4.5.0",
     "chokidar": "^2.1.8",
     "core-js": "^2.4.1",
